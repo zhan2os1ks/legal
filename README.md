@@ -1,4 +1,5 @@
-# Legal and copyright info
+<a href="https://zhan2os1ks.github.io"><button>HOME</button></a>  |  <a href="https://zhan2os1ks.github.io/legal/"><button>LEGAL(Impressum)</button></a> 
+## Legal und Impressum
 
 **Copyright(EN):**    
 This website is an official property of Zhandos Wiens and may not be used in any way except for the exceptions in the license:
